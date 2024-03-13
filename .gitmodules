@@ -118,3 +118,6 @@
 [submodule "5_FTP_server"]
 	path = 5_FTP_server
 	url = https://github.com/VladimirAndropov/5_FTP_server.git
+[submodule "Miro_server"]
+	path = Miro_server
+	url = https://github.com/mirrrler/Miro_server
