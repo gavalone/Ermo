@@ -310,3 +310,60 @@
 [submodule "pi22-2/Starikov_PI_22_2"]
 	path = pi22-2/Starikov_PI_22_2
 	url = https://github.com/Qwertysonman/Starikov_PI_22_2
+[submodule "pi22-3/Kartashov"]
+	path = pi22-3/Kartashov
+	url = https://github.com/basilio-bellini/Kartashov.git
+[submodule "pi22-3/Karavaeva"]
+	path = pi22-3/Karavaeva
+	url = https://github.com/DinashaK/Karavaeva
+[submodule "pi22-3/She"]
+	path = pi22-3/She
+	url = https://github.com/Megamanek/She
+[submodule "pi22-2/Ermakov_fa-np-practice"]
+	path = pi22-2/Ermakov_fa-np-practice
+	url = https://github.com/vladermik/Ermakov_fa-np-practice
+[submodule "pi22-2/Trunov-fa-np-practice"]
+	path = pi22-2/Trunov-fa-np-practice
+	url = https://github.com/JuanTrunov/Trunov-fa-np-practice
+[submodule "pi22-2/samoylov_fa-np-practice"]
+	path = pi22-2/samoylov_fa-np-practice
+	url = https://github.com/GodWar101/samoylov_fa-np-practice
+[submodule "pi22-3/fa-np-practice"]
+	path = pi22-3/fa-np-practice
+	url = https://github.com/MrDrups/fa-np-practice
+[submodule "pi22-1/Kugach-fa-np-practice"]
+	path = pi22-1/Kugach-fa-np-practice
+	url = https://github.com/Con2023/Kugach-fa-np-practice
+[submodule "pi22-4/Obukhov"]
+	path = pi22-4/Obukhov
+	url = https://github.com/Ilyawysy/Obukhov
+[submodule "pi22-3/Vyatkin_practice"]
+	path = pi22-3/Vyatkin_practice
+	url = https://github.com/MrDrups/Vyatkin_practice
+[submodule "pi22-1/Gizatulin-fa-np-practice"]
+	path = pi22-1/Gizatulin-fa-np-practice
+	url = https://github.com/Butcher044/Gizatulin-fa-np-practice
+[submodule "pi22-1/Kobyakova-fa-np-practice"]
+	path = pi22-1/Kobyakova-fa-np-practice
+	url = https://github.com/piccologatto01/Kobyakova-fa-np-practice
+[submodule "pi22-1/Manapovfa-np-practice"]
+	path = pi22-1/Manapovfa-np-practice
+	url = https://github.com/Kami11144/Manapovfa-np-practice
+[submodule "pi22-1/Stankovskiy-fa-np-practice"]
+	path = pi22-1/Stankovskiy-fa-np-practice
+	url = https://github.com/XJIE6yIlIek/Stankovskiy-fa-np-practice
+[submodule "pi22-2/Chetyrkina_MA_fa-np-practice"]
+	path = pi22-2/Chetyrkina_MA_fa-np-practice
+	url = https://github.com/mariiachet/Chetyrkina_MA_fa-np-practice
+[submodule "pi22-2/Ovchinnikvo_fa-np-practice"]
+	path = pi22-2/Ovchinnikvo_fa-np-practice
+	url = https://github.com/Kami1ot/Ovchinnikvo_fa-np-practice
+[submodule "pi22-1/Tarabanovskiy-fa-np-practice"]
+	path = pi22-1/Tarabanovskiy-fa-np-practice
+	url = https://github.com/Tarabanovskiy/Tarabanovskiy-fa-np-practice
+[submodule "pi22-1/kudryavtsev-fa-np-practice2"]
+	path = pi22-1/kudryavtsev-fa-np-practice2
+	url = https://github.com/EgorKudryavtsev/kudryavtsev-fa-np-practice2
+[submodule "pi22-1/Musikhina-fa-np-practice"]
+	path = pi22-1/Musikhina-fa-np-practice
+	url = https://github.com/sonyashk/Musikhina-fa-np-practice
