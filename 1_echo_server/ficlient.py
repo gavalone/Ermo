@@ -13,7 +13,7 @@ BREAK = False
 client_socket = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
 client_socket.setsockopt(socket.SOL_SOCKET,socket.SO_RCVBUF,BUFF_SIZE)
 host_name = socket.gethostname()
-host_ip = '127.0.0.1'#  socket.gethostbyname(host_name)
+host_ip = '10.4.38.39'#  socket.gethostbyname(host_name)
 print(host_ip)
 port = 9688
 message = b'Hello'

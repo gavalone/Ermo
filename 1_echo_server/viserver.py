@@ -3,7 +3,7 @@ import socket, cv2, pickle, struct
 # Create Socket
 sock = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 # Socket Bind
-sock.bind(('', 9090))
+sock.bind(('10.4.38.39', 9999))
 # Socket Listen
 sock.listen(0)
 
