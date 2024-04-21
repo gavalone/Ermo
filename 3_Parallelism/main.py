@@ -3,9 +3,9 @@ import yaml
 import random
 from typing import List
 
-MATRIX1_FILE = "./data/matrix1.yml"
-MATRIX2_FILE = "./data/matrix2.yml"
-RESULT_FILE = "./data/result.yml"
+MATRIX1_FILE = "C:/Users/kiril/PycharmProjects/fa-hpc-prac/Pecheritsa-fa-np-practice/3_Parallelism_2022/matrix1.yml"
+MATRIX2_FILE = "C:/Users/kiril/PycharmProjects/fa-hpc-prac/Pecheritsa-fa-np-practice/3_Parallelism_2022/matrix2.yml"
+RESULT_FILE = "C:/Users/kiril/PycharmProjects/fa-hpc-prac/Pecheritsa-fa-np-practice/3_Parallelism_2022/result.yml"
 
 
 def print_matrix(matrix: List[List[int]]) -> None:

@@ -211,6 +211,7 @@
 [submodule "pi22-4/boikova"]
 	path = pi22-4/boikova
 	url = https://github.com/boikova2604/boikova
+<<<<<<< HEAD
 [submodule "pi22-1/Kosarev-fa-np-practice"]
 	path = pi22-1/Kosarev-fa-np-practice
 	url = https://github.com/Duoksi/Kosarev-fa-np-practice
@@ -367,3 +368,8 @@
 [submodule "pi22-1/Musikhina-fa-np-practice"]
 	path = pi22-1/Musikhina-fa-np-practice
 	url = https://github.com/sonyashk/Musikhina-fa-np-practice
+=======
+[submodule "Pech"]
+	path = Pech
+	url = https://github.com/k1llRe4l/Pech
+>>>>>>> 841bc0ef9b37bd851755d5e0d7e0cf4a2b5e8ce2
