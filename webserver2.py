@@ -1,3 +1,6 @@
+
+# Tested with Python 3.7+ (Mac OS X)
+
 import io
 import socket
 import sys
