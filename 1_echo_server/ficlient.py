@@ -1,4 +1,3 @@
-
 # Welcome to PyShine
 # This is client code to receive video and audio frames over UDP/TCP
 
@@ -62,4 +61,3 @@ def video_stream():
 from concurrent.futures import ThreadPoolExecutor
 with ThreadPoolExecutor(max_workers=2) as executor:
 	executor.submit(video_stream)
-

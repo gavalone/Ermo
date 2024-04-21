@@ -1,30 +1,3 @@
-[submodule "2_threaded_server"]
-	path = 2_threaded_server
-	url = https://github.com/VladimirAndropov/2_threaded_server.git
-[submodule "1_echo_server"]
-	path = 1_echo_server
-	url = https://github.com/VladimirAndropov/1_echo_server.git
-[submodule "6_Web_server"]
-	path = 6_Web_server
-	url = https://github.com/VladimirAndropov/6_Web_server.git
-[submodule "pi22-1/Kos"]
-	path = pi22-1/Kos
-	url = https://github.com/Duoksi/Kos
-[submodule "pi22-1/Abl"]
-	path = pi22-1/Abl
-	url = https://github.com/mikayra/Abl
-[submodule "pi22-1/bon"]
-	path = pi22-1/bon
-	url = https://github.com/areaal/bon
-[submodule "pi22-1/Kug"]
-	path = pi22-1/Kug
-	url = https://github.com/Con2023/Kug
-[submodule "pi22-1/Kob"]
-	path = pi22-1/Kob
-	url = https://github.com/piccologatto01/Kob
-[submodule "pi22-1/Eme"]
-	path = pi22-1/Eme
-	url = https://github.com/emelyanovaolesya/Eme
 [submodule "pi22-1/Yak"]
 	path = pi22-1/Yak
 	url = https://github.com/YakimkinDaniil/Yak
@@ -121,3 +94,292 @@
 [submodule "Miro_server"]
 	path = Miro_server
 	url = https://github.com/mirrrler/Miro_server
+=======
+[submodule "pi22-3/Kol"]
+	path = pi22-3/Kol
+	url = https://github.com/KolchevaAngelina/Kol
+[submodule "pi22-3/BES-fa-np-practice"]
+	path = pi22-3/BES-fa-np-practice
+	url = https://github.com/angelinabespalaya/BES-fa-np-practice
+[submodule "pi22-3/HOD"]
+	path = pi22-3/HOD
+	url = https://github.com/alexsandr111/HOD
+[submodule "pi22-3/Pro"]
+	path = pi22-3/Pro
+	url = https://github.com/ilyardi/Pro
+[submodule "pi22-3/GAEV"]
+	path = pi22-3/GAEV
+	url = https://github.com/gaevskayakaterina/GAEV
+[submodule "pi22-3/Tumk"]
+	path = pi22-3/Tumk
+	url = https://github.com/An1stasia/Tumk
+[submodule "pi22-3/Ermo"]
+	path = pi22-3/Ermo
+	url = https://github.com/gavalone/Ermo
+[submodule "pi22-3/Tran"]
+	path = pi22-3/Tran
+	url = https://github.com/ErWor/Tran
+[submodule "pi22-3/But"]
+	path = pi22-3/But
+	url = https://github.com/IlyaButkevich/But
+[submodule "pi22-3/Kras"]
+	path = pi22-3/Kras
+	url = https://github.com/ksyashaaa/Kras
+[submodule "pi22-3/Beloglazovaa"]
+	path = pi22-3/Beloglazovaa
+	url = https://github.com/Beloglazovaaa/Beloglazovaa
+[submodule "pi22-3/ALY"]
+	path = pi22-3/ALY
+	url = https://github.com/tatarsoul/ALY
+[submodule "pi22-3/Gus-fa-np-practice"]
+	path = pi22-3/Gus-fa-np-practice
+	url = https://github.com/Anzhelika-pi22-4/Gus-fa-np-practice
+[submodule "pi22-3/Val"]
+	path = pi22-3/Val
+	url = https://github.com/Athlesoth/Val
+[submodule "pi22-3/Pav"]
+	path = pi22-3/Pav
+	url = https://github.com/TeamUs/Pav
+[submodule "pi22-3/Tit"]
+	path = pi22-3/Tit
+	url = https://github.com/SemyonTitov22/Tit
+[submodule "pi22-3/pi22-3-KRU"]
+	path = pi22-3/pi22-3-KRU
+	url = https://github.com/cram0s/pi22-3-KRU
+[submodule "pi22-3/MEK"]
+	path = pi22-3/MEK
+	url = https://github.com/juliamekh/MEK
+[submodule "pi22-4/Sob"]
+	path = pi22-4/Sob
+	url = https://github.com/dane4k/Sob
+[submodule "pi22-4/Dzhu"]
+	path = pi22-4/Dzhu
+	url = https://github.com/jumayev004/Dzhu
+[submodule "pi22-4/Krugl"]
+	path = pi22-4/Krugl
+	url = https://github.com/flamingo99900/Krugl
+[submodule "pi22-4/Gorn"]
+	path = pi22-4/Gorn
+	url = https://github.com/garnett22/Gorn
+[submodule "pi22-4/Anto"]
+	path = pi22-4/Anto
+	url = https://github.com/AliceAnd0/Anto
+[submodule "pi22-4/Nani"]
+	path = pi22-4/Nani
+	url = https://github.com/NafaNaniz/Nani
+[submodule "pi22-4/Tyut"]
+	path = pi22-4/Tyut
+	url = https://github.com/polinatut/Tyut
+[submodule "pi22-4/Syar"]
+	path = pi22-4/Syar
+	url = https://github.com/Delia0001/Syar
+[submodule "pi22-4/deg"]
+	path = pi22-4/deg
+	url = https://github.com/dariadegt/deg
+[submodule "pi22-4/Miro"]
+	path = pi22-4/Miro
+	url = https://github.com/mirrrler/Miro
+[submodule "pi22-4/Abga"]
+	path = pi22-4/Abga
+	url = https://github.com/CryingDemon89/Abga
+[submodule "pi22-4/Kon"]
+	path = pi22-4/Kon
+	url = https://github.com/itsvakonst/Kon
+[submodule "pi22-4/Bush"]
+	path = pi22-4/Bush
+	url = https://github.com/bshkrrr/Bush
+[submodule "pi22-4/Kurb"]
+	path = pi22-4/Kurb
+	url = https://github.com/Kurbanov04/Kurb
+[submodule "pi22-4/Zhab"]
+	path = pi22-4/Zhab
+	url = https://github.com/Katerina0088/Zhab
+[submodule "pi22-4/pet"]
+	path = pi22-4/pet
+	url = https://github.com/Aleksandra-17/pet
+[submodule "pi22-4/Tran"]
+	path = pi22-4/Tran
+	url = https://github.com/manhtran22/Tran
+[submodule "pi22-4/Chu"]
+	path = pi22-4/Chu
+	url = https://github.com/MaximChudaaov/Chu
+[submodule "pi22-4/Usa-fa-np-practice"]
+	path = pi22-4/Usa-fa-np-practice
+	url = https://github.com/Alina-Usacheva/Usa-fa-np-practice
+[submodule "pi22-4/puti"]
+	path = pi22-4/puti
+	url = https://github.com/GlebPutintsev/puti
+[submodule "pi22-4/ersh"]
+	path = pi22-4/ersh
+	url = https://github.com/slavaeee/ersh
+[submodule "pi22-4/Ilya"]
+	path = pi22-4/Ilya
+	url = https://github.com/Ilyawysy/Ilya
+[submodule "pi22-4/urlova"]
+	path = pi22-4/urlova
+	url = https://github.com/Eliaveta88/urlova
+[submodule "pi22-3/Kas"]
+	path = pi22-3/Kas
+	url = https://github.com/MashaK04/Kas/
+[submodule "pi22-4/boikova"]
+	path = pi22-4/boikova
+	url = https://github.com/boikova2604/boikova
+[submodule "pi22-1/Kosarev-fa-np-practice"]
+	path = pi22-1/Kosarev-fa-np-practice
+	url = https://github.com/Duoksi/Kosarev-fa-np-practice
+[submodule "pi22-1/Pecheritsa-fa-np-practice"]
+	path = pi22-1/Pecheritsa-fa-np-practice
+	url = https://github.com/k1llRe4l/Pecheritsa-fa-np-practice
+[submodule "pi22-1/bondarenko-pi22-1-fa-np-practice"]
+	path = pi22-1/bondarenko-pi22-1-fa-np-practice
+	url = https://github.com/areaal/bondarenko-pi22-1-fa-np-practice
+[submodule "pi22-1/Varlakhin-Roman-fa-np-practice"]
+	path = pi22-1/Varlakhin-Roman-fa-np-practice
+	url = https://github.com/RomanElprimo/Varlakhin-Roman-fa-np-practice
+[submodule "pi22-1/Ablautova-fa-np-practice"]
+	path = pi22-1/Ablautova-fa-np-practice
+	url = https://github.com/mikayra/Ablautova-fa-np-practice
+[submodule "pi22-1/Emelyanova-np-practice"]
+	path = pi22-1/Emelyanova-np-practice
+	url = https://github.com/emelyanovaolesya/Emelyanova-np-practice
+[submodule "pi22-1/Yakimkin-fa-np-practice"]
+	path = pi22-1/Yakimkin-fa-np-practice
+	url = https://github.com/YakimkinDaniil/Yakimkin-fa-np-practice
+[submodule "pi22-1/Grishin-fa-np-practice"]
+	path = pi22-1/Grishin-fa-np-practice
+	url = https://github.com/IamHenryEvery/Grishin-fa-np-practice
+[submodule "pi22-1/Mishina-fa-np-practice"]
+	path = pi22-1/Mishina-fa-np-practice
+	url = https://github.com/NastyMishina/Mishina-fa-np-practice
+[submodule "pi22-1/Nikitinfa-np-practice"]
+	path = pi22-1/Nikitinfa-np-practice
+	url = https://github.com/NikitinAnton/Nikitinfa-np-practice
+[submodule "pi22-1/Granko-fa-np-practice"]
+	path = pi22-1/Granko-fa-np-practice
+	url = https://github.com/GrankoNastya/Granko-fa-np-practice
+[submodule "pi22-1/bochagina-fa-np-practice"]
+	path = pi22-1/bochagina-fa-np-practice
+	url = https://github.com/OlgaBochagina/bochagina-fa-np-practice
+[submodule "pi22-1/nechay-fa-np-practice"]
+	path = pi22-1/nechay-fa-np-practice
+	url = https://github.com/lilitanechay/nechay-fa-np-practice
+[submodule "pi22-1/alieva_fa-np-practice"]
+	path = pi22-1/alieva_fa-np-practice
+	url = https://github.com/hielv/alieva_fa-np-practice
+[submodule "pi22-2/prozorov-np-practice"]
+	path = pi22-2/prozorov-np-practice
+	url = https://github.com/cpsulsss/prozorov-np-practice
+[submodule "pi22-2/ismailov-fa-np-practice"]
+	path = pi22-2/ismailov-fa-np-practice
+	url = https://github.com/MirQsan/ismailov-fa-np-practice
+[submodule "pi22-2/Pavliuk-fa-np-practice"]
+	path = pi22-2/Pavliuk-fa-np-practice
+	url = https://github.com/yeeeyoooduck/Pavliuk-fa-np-practice
+[submodule "pi22-2/Klyavlyaev_pi22_2"]
+	path = pi22-2/Klyavlyaev_pi22_2
+	url = https://github.com/Gidr0n/Klyavlyaev_pi22_2
+[submodule "pi22-2/Mashirov-fa-np-practice"]
+	path = pi22-2/Mashirov-fa-np-practice
+	url = https://github.com/10nesse/Mashirov-fa-np-practice
+[submodule "pi22-2/babkina-fa-np-practice"]
+	path = pi22-2/babkina-fa-np-practice
+	url = https://github.com/TanyaBabkina/babkina-fa-np-practice
+[submodule "pi22-2/otto_fa-np-practice"]
+	path = pi22-2/otto_fa-np-practice
+	url = https://github.com/teenee0/otto_fa-np-practice
+[submodule "pi22-2/MorozovaPI22-2"]
+	path = pi22-2/MorozovaPI22-2
+	url = https://github.com/Alyona544/MorozovaPI22-2
+[submodule "pi22-2/Akimov_fa-np-practice"]
+	path = pi22-2/Akimov_fa-np-practice
+	url = https://github.com/Arsenoid/Akimov_fa-np-practice
+[submodule "pi22-2/kukin"]
+	path = pi22-2/kukin
+	url = https://github.com/hukamobeta/kukin
+[submodule "pi22-2/Dzyubin-fa-np-practice"]
+	path = pi22-2/Dzyubin-fa-np-practice
+	url = https://github.com/osetter/Dzyubin-fa-np-practice
+[submodule "pi22-2/SereginaPI22-2"]
+	path = pi22-2/SereginaPI22-2
+	url = https://github.com/NasNasNas7631/SereginaPI22-2
+[submodule "pi22-2/Khvatova-fa-np-practice"]
+	path = pi22-2/Khvatova-fa-np-practice
+	url = https://github.com/Anastas15/Khvatova-fa-np-practice
+[submodule "pi22-2/PI22-2ChebykinArtem"]
+	path = pi22-2/PI22-2ChebykinArtem
+	url = https://github.com/diploud72/PI22-2ChebykinArtem
+[submodule "pi22-1/Ivlev-fa-np-practice"]
+	path = pi22-1/Ivlev-fa-np-practice
+	url = https://github.com/Ivlev2004/Ivlev-fa-np-practice
+[submodule "pi22-3/Muk-Pi22-3"]
+	path = pi22-3/Muk-Pi22-3
+	url = https://github.com/MukhinVladislav/Muk-Pi22-3
+[submodule "pi22-4/Malikov_fa-np-pr"]
+	path = pi22-4/Malikov_fa-np-pr
+	url = https://github.com/medwejonok/Malikov_fa-np-pr
+[submodule "pi22-3/tanya-pyzhyanova"]
+	path = pi22-3/tanya-pyzhyanova
+	url = https://github.com/Adrenaline22/tanya-pyzhyanova
+[submodule "pi22-2/Starikov_PI_22_2"]
+	path = pi22-2/Starikov_PI_22_2
+	url = https://github.com/Qwertysonman/Starikov_PI_22_2
+[submodule "pi22-3/Kartashov"]
+	path = pi22-3/Kartashov
+	url = https://github.com/basilio-bellini/Kartashov.git
+[submodule "pi22-3/Karavaeva"]
+	path = pi22-3/Karavaeva
+	url = https://github.com/DinashaK/Karavaeva
+[submodule "pi22-3/She"]
+	path = pi22-3/She
+	url = https://github.com/Megamanek/She
+[submodule "pi22-2/Ermakov_fa-np-practice"]
+	path = pi22-2/Ermakov_fa-np-practice
+	url = https://github.com/vladermik/Ermakov_fa-np-practice
+[submodule "pi22-2/Trunov-fa-np-practice"]
+	path = pi22-2/Trunov-fa-np-practice
+	url = https://github.com/JuanTrunov/Trunov-fa-np-practice
+[submodule "pi22-2/samoylov_fa-np-practice"]
+	path = pi22-2/samoylov_fa-np-practice
+	url = https://github.com/GodWar101/samoylov_fa-np-practice
+[submodule "pi22-3/fa-np-practice"]
+	path = pi22-3/fa-np-practice
+	url = https://github.com/MrDrups/fa-np-practice
+[submodule "pi22-1/Kugach-fa-np-practice"]
+	path = pi22-1/Kugach-fa-np-practice
+	url = https://github.com/Con2023/Kugach-fa-np-practice
+[submodule "pi22-4/Obukhov"]
+	path = pi22-4/Obukhov
+	url = https://github.com/Ilyawysy/Obukhov
+[submodule "pi22-3/Vyatkin_practice"]
+	path = pi22-3/Vyatkin_practice
+	url = https://github.com/MrDrups/Vyatkin_practice
+[submodule "pi22-1/Gizatulin-fa-np-practice"]
+	path = pi22-1/Gizatulin-fa-np-practice
+	url = https://github.com/Butcher044/Gizatulin-fa-np-practice
+[submodule "pi22-1/Kobyakova-fa-np-practice"]
+	path = pi22-1/Kobyakova-fa-np-practice
+	url = https://github.com/piccologatto01/Kobyakova-fa-np-practice
+[submodule "pi22-1/Manapovfa-np-practice"]
+	path = pi22-1/Manapovfa-np-practice
+	url = https://github.com/Kami11144/Manapovfa-np-practice
+[submodule "pi22-1/Stankovskiy-fa-np-practice"]
+	path = pi22-1/Stankovskiy-fa-np-practice
+	url = https://github.com/XJIE6yIlIek/Stankovskiy-fa-np-practice
+[submodule "pi22-2/Chetyrkina_MA_fa-np-practice"]
+	path = pi22-2/Chetyrkina_MA_fa-np-practice
+	url = https://github.com/mariiachet/Chetyrkina_MA_fa-np-practice
+[submodule "pi22-2/Ovchinnikvo_fa-np-practice"]
+	path = pi22-2/Ovchinnikvo_fa-np-practice
+	url = https://github.com/Kami1ot/Ovchinnikvo_fa-np-practice
+[submodule "pi22-1/Tarabanovskiy-fa-np-practice"]
+	path = pi22-1/Tarabanovskiy-fa-np-practice
+	url = https://github.com/Tarabanovskiy/Tarabanovskiy-fa-np-practice
+[submodule "pi22-1/kudryavtsev-fa-np-practice2"]
+	path = pi22-1/kudryavtsev-fa-np-practice2
+	url = https://github.com/EgorKudryavtsev/kudryavtsev-fa-np-practice2
+[submodule "pi22-1/Musikhina-fa-np-practice"]
+	path = pi22-1/Musikhina-fa-np-practice
+	url = https://github.com/sonyashk/Musikhina-fa-np-practice
+[submodule "Pech"]
+	path = Pech
+	url = https://github.com/k1llRe4l/Pech

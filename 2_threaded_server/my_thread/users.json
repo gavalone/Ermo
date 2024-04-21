@@ -1,0 +1,20 @@
+[
+    {
+        "admin": {
+            "password": "3042d7230c565a47d72a21d39759cb3d",
+            "address": "127.0.0.1"
+        }
+    },
+    {
+        "anna": {
+            "password": "a3d296261dbda886e8685e4bad338bf4",
+            "address": "127.0.0.1"
+        }
+    },
+    {
+        "seregina": {
+            "password": "4693da96e14b1ffd00c61fe068f0b4ea",
+            "address": "127.0.0.1"
+        }
+    }
+]

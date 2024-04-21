@@ -1,0 +1,20 @@
+[
+    {
+        "seregina": {
+            "password": "74ccfa1ba490b4cdf5372e63f6f68906",
+            "address": "127.0.0.1"
+        }
+    },
+    {
+        "anna": {
+            "password": "988993b88db6ea6e99a9391f83c15373",
+            "address": "127.0.0.1"
+        }
+    },
+    {
+        "pineapple": {
+            "password": "109a746323ab8cc6ff85a20c2b76f07d",
+            "address": "127.0.0.1"
+        }
+    }
+]
